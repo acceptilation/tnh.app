@@ -6,6 +6,27 @@ plugins:
 extra:
   homepage: https://www.redeemeratlanta.org
 
+  social:
+    - name: Church of the Redeemer
+      link: https://www.redeemeratlanta.org
+      icon: material/cross-bolnisi
+
+    - name: The Gospel Coalition
+      link: https://www.thegospelcoalition.org
+      icon: simple/square
+
+    - name: BibleProject
+      link: https://bibleproject.com
+      icon: material/chat
+
+    - name: Zondervan Academic
+      link: https://zondervanacademic.com
+      icon: simple/zilch
+
+    - name: InterVarsity Press
+      link: https://www.ivpress.com
+      icon: material/waves
+
 theme:
   name: material
   favicon: favicon.png
