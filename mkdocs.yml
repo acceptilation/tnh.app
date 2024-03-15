@@ -3,11 +3,16 @@ site_name: TNH
 
 plugins:
   - privacy
+extra:
+  homepage: https://www.redeemeratlanta.org
 
 theme:
   name: material
-  palette:
+  favicon: favicon.png
+  icon:
+    logo: material/cross-bolnisi
 
+  palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep orange
