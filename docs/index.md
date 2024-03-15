@@ -4,22 +4,30 @@ hide:
   - toc
 ---
 
-# Welcome to MkDocs
+# Hello there!
 
-Hello, world!
+We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
+We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home out in [Marietta][4],
+northwest of Atlanta
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+In 2023, we finished several study series.
+[Know How We Got Our Bible][5] took us through the history of the Bible as a written text.
+[The Jesus Paul Knew][6] encouraged us to view Jesus from different perspectives through the lens of Paul's letters.
+We also completed a series of overviews of various Christian traditions: [Anglicans, Baptists, etc.][7]
 
-## Commands
+In addition to studies, we also set aside the last Thursday of the month to do something different:
+movie nights, dinners, etc.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[1]: https://www.redeemeratlanta.org/
 
-## Project layout
+[2]: https://www.merriam-webster.com/dictionary/dink
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[3]: https://www.merriam-webster.com/dictionary/yuppie
+
+[4]: https://maps.app.goo.gl/V47esnrKR2bH93u68
+
+[5]: https://courses.zondervanacademic.com/know-how-we-got-our-bible
+
+[6]: https://www.ivpress.com/the-jesus-paul-knew-lbs
+
+[7]: https://www.thegospelcoalition.org/blogs/trevin-wax/quick-guide-christian-denominations/
