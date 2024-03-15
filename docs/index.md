@@ -8,7 +8,7 @@ hide:
 
 We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
 We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home out in [Marietta][4],
-northwest of Atlanta
+northwest of Atlanta.
 
 In 2023, we finished several study series.
 [Know How We Got Our Bible][5] took us through the history of the Bible as a written text.
@@ -17,6 +17,8 @@ We also completed a series of overviews of various Christian traditions: [Anglic
 
 In addition to studies, we also set aside the last Thursday of the month to do something different:
 movie nights, dinners, etc.
+
+Join us!
 
 [1]: https://www.redeemeratlanta.org/
 
