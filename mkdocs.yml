@@ -1,8 +1,19 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: TNH
+copyright: TNH is a Church of the Redeemer small group
+
+repo_name: acceptilation/tnh.app
+repo_url: https://github.com/acceptilation/tnh.app
 
 plugins:
   - privacy
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  - git-committers:
+      repository: acceptilation/tnh.app
+      branch: main
+
 extra:
   homepage: https://www.redeemeratlanta.org
 
@@ -32,6 +43,7 @@ theme:
   favicon: favicon.png
   icon:
     logo: material/cross-bolnisi
+    repo: simple/github
 
   palette:
     - media: "(prefers-color-scheme: dark)"
