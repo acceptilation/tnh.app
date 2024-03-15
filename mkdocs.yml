@@ -8,7 +8,6 @@ repo_url: https://github.com/acceptilation/tnh.app
 plugins:
   - privacy
   - git-revision-date-localized:
-      enable_creation_date: true
       type: timeago
   - git-committers:
       repository: acceptilation/tnh.app
