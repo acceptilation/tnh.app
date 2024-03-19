@@ -13,6 +13,10 @@ plugins:
       repository: acceptilation/tnh.app
       branch: main
 
+nav:
+  - Home: index.md
+  - About: about.md
+
 extra:
   social:
     - name: Church of the Redeemer
