@@ -1,12 +1,4 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # Who are we?
-
-Hello there!
 
 We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
 We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home out in [Marietta][4],
