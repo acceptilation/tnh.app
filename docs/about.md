@@ -1,8 +1,8 @@
 # Who are we?
 
 We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
-We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home out in [Marietta][4],
-northwest of Atlanta.
+We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home in [Sandy Springs][4],
+just north of Atlanta.
 
 In 2023, we finished several study series.
 [Know How We Got Our Bible][5] took us through the history of the Bible as a written text.
@@ -20,7 +20,7 @@ Join us!
 
 [3]: https://www.merriam-webster.com/dictionary/yuppie
 
-[4]: https://maps.app.goo.gl/V47esnrKR2bH93u68
+[4]: https://maps.app.goo.gl/2yhuwmc72XqrJXuN9
 
 [5]: https://courses.zondervanacademic.com/know-how-we-got-our-bible
 
