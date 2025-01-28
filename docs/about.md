@@ -18,6 +18,8 @@ Here are some examples of studies we've completed:
     [The Jesus Paul Knew][6] encouraged us to view Jesus from different perspectives through the lens of Paul's letters.
     We also completed a series of overviews of various Christian traditions: [Anglicans, Baptists, etc.][7]
 
+For a complete list of studies, see [this page](studies.md).
+
 In addition to studies, we also set aside the last Thursday of the month to do something different:
 movie nights, dinners, etc.
 
