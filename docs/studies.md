@@ -2,14 +2,15 @@
 
 ## Current
 
-| Year | Study                   | Type        |
-|------|-------------------------|-------------|
-| 2025 | [The Great Divorce][11] | Study guide |
+| Year | Study                  | Type            |
+|------|------------------------|-----------------|
+| 2025 | [The Prodigal God][12] | Scripture study |
 
 ## Past Studies
 
 | Year | Study                             | Type            |
 |------|-----------------------------------|-----------------|
+| 2025 | [The Great Divorce][11]           | Study guide     |
 | 2025 | [Four Views of the End Times][10] | Study guide     |
 | 2024 | [Jesus the King][09]              | Scripture study |
 | 2024 | [Dragons in the Bible][08]        | Podcasts        |
@@ -32,6 +33,7 @@
 [09]: https://timothykeller.com/books/jesus-the-king
 [10]: https://www.tyndale.com/p/four-views-of-the-end-times/9781649381903
 [11]: https://brownchairbooks.com/product/the-great-divorce-study-guide-paperback/
+[12]: https://timothykeller.com/books/the-prodigal-god
 
 ## One-offs
 
