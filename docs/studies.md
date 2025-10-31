@@ -2,14 +2,15 @@
 
 ## Current
 
-| Year | Study                  | Type            |
-|------|------------------------|-----------------|
-| 2025 | [The Prodigal God][12] | Scripture study |
+| Year | Study                  | Type |
+|------|------------------------|------|
+| 2025 | [Handle with Care][13] | Book |
 
-## Past Studies
+## Past studies
 
 | Year | Study                             | Type            |
 |------|-----------------------------------|-----------------|
+| 2025 | [The Prodigal God][12]            | Scripture study |
 | 2025 | [The Great Divorce][11]           | Study guide     |
 | 2025 | [Four Views of the End Times][10] | Study guide     |
 | 2024 | [Jesus the King][09]              | Scripture study |
@@ -34,20 +35,30 @@
 [10]: https://www.tyndale.com/p/four-views-of-the-end-times/9781649381903
 [11]: https://brownchairbooks.com/product/the-great-divorce-study-guide-paperback/
 [12]: https://timothykeller.com/books/the-prodigal-god
+[13]: https://www.bhpublishinggroup.com/product/handle-with-care-2/
 
 ## One-offs
 
-| Year | Study                        |
-|------|------------------------------|
-| 2025 | Herod the Not-So-Great       |
-| 2024 | Bible Spooktacular 2         |
-| 2024 | The Daughters of Zelophehad  |
-| 2023 | Joy to the World             |
-| 2023 | [Gospel of the Kingdom][o03] |
-| 2022 | The Christmas special        |
-| 2022 | [Atonement theories][o02]    |
-| 2022 | [Bible Spooktacular][o01]    |
+| Year | Study                                     |
+|------|-------------------------------------------|
+| 2025 | [Bible Spooktacular 3][o09]               |
+| 2025 | [Passover Psalms at the Last Supper][o08] |
+| 2025 | [Heresy 101][o07]                         |
+| 2025 | Herod the Not-So-Great                    |
+| 2024 | Bible Spooktacular 2                      |
+| 2024 | [The Daughters of Zelophehad][o06]        |
+| 2023 | [Joy to the World][o05]                   |
+| 2023 | [Gospel of the Kingdom][o04]              |
+| 2022 | [The Christmas special][o03]              |
+| 2022 | [Atonement theories][o02]                 |
+| 2022 | [Bible Spooktacular][o01]                 |
 
 [o01]: https://www.biblegateway.com/passage/?search=1%20Samuel%2028%3A3-25&version=NIV
 [o02]: https://www.christianitytoday.com/ct/2022/april/bonnie-kristian-atonement-theories-historical-context.html
-[o03]: https://bibleproject.com/explore/video/gospel-kingdom/
+[o03]: https://www.biblegateway.com/passage/?search=John%201%3A1-5&version=NIV
+[o04]: https://bibleproject.com/explore/video/gospel-kingdom/
+[o05]: https://www.thegospelcoalition.org/article/joy-to-the-world-a-classic-christmas-hymn-reconsidered/
+[o06]: https://www.biblegateway.com/passage/?search=Numbers%2027%3A1-11&version=NIV
+[o07]: https://www.patreon.com/posts/getting-schooled-119252265
+[o08]: https://bibleproject.com/podcasts/passover-psalms-last-supper/
+[o09]: https://www.biblegateway.com/passage/?search=Mark%205%3A1-20&version=ESV
