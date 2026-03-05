@@ -1,6 +1,6 @@
 # Who are we?
 
-We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
+We're a [Church of the Redeemer][1] small group that seeks to know God better and enjoys community together.
 We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home in [Sandy Springs][4],
 just north of Atlanta.
 
@@ -30,8 +30,6 @@ Join us!
     We also completed a series of overviews of various Christian traditions: [Anglicans, Baptists, etc.][7]
 
 [1]: https://www.redeemeratlanta.org/
-[2]: https://www.merriam-webster.com/dictionary/dink
-[3]: https://www.merriam-webster.com/dictionary/yuppie
 [4]: https://maps.app.goo.gl/2yhuwmc72XqrJXuN9
 [5]: https://courses.zondervanacademic.com/know-how-we-got-our-bible
 [6]: https://www.ivpress.com/the-jesus-paul-knew-lbs
