@@ -4,7 +4,18 @@ We're a [Church of the Redeemer][1] group of [20-][2] and [30-][3]somethings.
 We meet every Thursday night at 7:30 and try to wrap up around 9:00, meeting at a home in [Sandy Springs][4],
 just north of Atlanta.
 
-Here are some examples of studies we've completed:
+Some example studies that we've completed can be found below.
+For a complete list of studies, see [this page](studies.md).
+In addition to studies, we also set aside the last Thursday of the month to do something different:
+movie nights, dinners, etc.
+
+Join us!
+
+=== "2025"
+
+    We surveyed [Four Views of the End Times][11], comparing various interpretations of John's Revelation.
+    We then hopped aboard the ghost bus, reading C. S. Lewis's [The Great Divorce][12] and his musings about the afterlife.
+    Lastly, we took a deep dive into [The Prodigal God][13], Tim Keller's study of the prodigal son parable.
 
 === "2024"
 
@@ -18,29 +29,16 @@ Here are some examples of studies we've completed:
     [The Jesus Paul Knew][6] encouraged us to view Jesus from different perspectives through the lens of Paul's letters.
     We also completed a series of overviews of various Christian traditions: [Anglicans, Baptists, etc.][7]
 
-For a complete list of studies, see [this page](studies.md).
-
-In addition to studies, we also set aside the last Thursday of the month to do something different:
-movie nights, dinners, etc.
-
-Join us!
-
 [1]: https://www.redeemeratlanta.org/
-
 [2]: https://www.merriam-webster.com/dictionary/dink
-
 [3]: https://www.merriam-webster.com/dictionary/yuppie
-
 [4]: https://maps.app.goo.gl/2yhuwmc72XqrJXuN9
-
 [5]: https://courses.zondervanacademic.com/know-how-we-got-our-bible
-
 [6]: https://www.ivpress.com/the-jesus-paul-knew-lbs
-
 [7]: https://www.thegospelcoalition.org/blogs/trevin-wax/quick-guide-christian-denominations/
-
 [8]: https://www.lifeway.com/en/product/jude-bible-study-book-with-video-access-P005839694
-
 [9]: https://bibleproject.com/guides/dragons-in-the-bible/
-
 [10]: https://timothykeller.com/books/jesus-the-king
+[11]: https://www.tyndale.com/p/four-views-of-the-end-times/9781649381903
+[12]: https://brownchairbooks.com/product/the-great-divorce-study-guide-paperback/
+[13]: https://timothykeller.com/books/the-prodigal-god

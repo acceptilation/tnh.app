@@ -2,14 +2,15 @@
 
 ## Current
 
-| Year | Study                  | Type |
-|------|------------------------|------|
-| 2025 | [Handle with Care][13] | Book |
+| Year | Study                                     | Type |
+|------|-------------------------------------------|------|
+| 2026 | [With Christ in the School of Prayer][14] | Book |
 
 ## Past studies
 
 | Year | Study                             | Type            |
 |------|-----------------------------------|-----------------|
+| 2026 | [Handle with Care][13]            | Book            |
 | 2025 | [The Prodigal God][12]            | Scripture study |
 | 2025 | [The Great Divorce][11]           | Study guide     |
 | 2025 | [Four Views of the End Times][10] | Study guide     |
@@ -36,6 +37,7 @@
 [11]: https://brownchairbooks.com/product/the-great-divorce-study-guide-paperback/
 [12]: https://timothykeller.com/books/the-prodigal-god
 [13]: https://www.bhpublishinggroup.com/product/handle-with-care-2/
+[14]: https://ccel.org/ccel/murray/prayer/prayer
 
 ## One-offs
 
