@@ -1,4 +1,4 @@
-name: zensical-build-deployment
+name: zensical-deploy
 
 on:
   push:
