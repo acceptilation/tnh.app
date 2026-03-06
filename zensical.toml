@@ -1,0 +1,77 @@
+[project]
+site_name = "TNH"
+site_description = "A small website introducing the TNH church group"
+site_author = "Acceptilation"
+site_url = "https://tnh.app/"
+repo_name = "acceptilation/tnh.app"
+repo_url = "https://github.com/acceptilation/tnh.app"
+nav = [
+    { "Home" = "index.md" },
+    { "About" = "about.md" },
+    { "Studies" = "studies.md" },
+]
+copyright = "TNH is a Church of the Redeemer small group"
+
+[project.theme.icon]
+logo = "material/cross-bolnisi"
+repo = "simple/github"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "blue"
+accent = "blue"
+toggle.icon = "material/brightness-7"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "blue"
+accent = "blue"
+toggle.icon = "material/brightness-4"
+toggle.name = "Switch to light mode"
+
+[project.theme]
+language = "en"
+favicon = "favicon.png"
+features = [
+    "navigation.footer",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.path",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+]
+
+# footer links
+
+[[project.extra.social]]
+name = "Church of the Redeemer"
+link = "https://www.redeemeratlanta.org"
+icon = "material/cross-bolnisi"
+
+[[project.extra.social]]
+name = "The Gospel Coalition"
+link = "https://www.thegospelcoalition.org"
+icon = "simple/square"
+
+[[project.extra.social]]
+name = "BibleProject"
+link = "https://bibleproject.com"
+icon = "material/chat"
+
+[[project.extra.social]]
+name = "Zondervan Academic"
+link = "https://zondervanacademic.com"
+icon = "simple/zilch"
+
+[[project.extra.social]]
+name = "InterVarsity Press"
+link = "https://www.ivpress.com"
+icon = "material/waves"
+
+# MkDocs plugins lost to the Zensical migration:
+# git-revision-date-localized
+# git-committers

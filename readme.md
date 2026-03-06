@@ -14,4 +14,4 @@ pip install --requirement requirements.txt;
 ## JetBrains run configuration
 
 To run site locally:  
-`mkdocs-serve`
+`zensical-serve`
